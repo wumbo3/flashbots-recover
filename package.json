@@ -1,7 +1,7 @@
 {
-  "name": "onlylans-flashbots",
+  "name": "flashbots-recover",
   "version": "1.0.0",
-  "description": "Recovery script for lanslyde ETH wallet using Flashbots",
+  "description": "Recover your ETH assets from a compromised wallet using Flashbots",
   "scripts": {
     "rescue": "npx ts-node --project tsconfig.json src/rescue.ts",
     "build": "npx tsc",
